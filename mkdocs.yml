@@ -1,0 +1,6 @@
+site_name: VictorHub docs
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - Architecture: architecture.md
+  - Plugins: plugins.md
